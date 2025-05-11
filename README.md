@@ -1,1 +1,1 @@
-# fodd-waste-managmennt
+# food-waste-managmennt
